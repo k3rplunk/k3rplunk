@@ -73,7 +73,7 @@ My special interests are Cybersecurity, software development and AI. I love boar
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=k3rplunk&bg_color=00000000&color=a855f7&line=a855f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+### 💭 Random Dev Quote generator!
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
